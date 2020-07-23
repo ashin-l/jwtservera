@@ -1,1 +1,2 @@
 GET http://127.0.0.1:8081/index HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VyIiwiZXhwIjoxNTg3MTg2MjQzfQ.x8LMP_SOHsuJC7yXDyoef8vyZx46FJtctlGvukf6l-N6x6ZlHxRQRr366ASaYe4ejrpusVlZNWIdNVWtZP02Ww
